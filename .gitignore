@@ -1,0 +1,9 @@
+
+MSS/bin/
+MSS/obj/
+MSS.Services/bin/
+MSS.Services/obj/
+MSS.Services.Interfaces/bin/
+MSS.Services.Interfaces/obj/
+
+.vs/
